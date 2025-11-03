@@ -1,0 +1,10 @@
+﻿  decode.cpp
+D:\Projects\C++\DDSTool\DDSTool\DDS\decode.cpp(17,52): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+D:\Projects\C++\DDSTool\DDSTool\DDS\decode.cpp(149,37): warning C4244: 'return': conversion from 'uintptr_t' to 'double', possible loss of data
+     Creating library D:\Projects\C++\DDSTool\x64\Release\DDSTool.lib and object D:\Projects\C++\DDSTool\x64\Release\DDSTool.exp
+  Generating code
+  0 of 150 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DDSTool.vcxproj -> D:\Projects\C++\DDSTool\x64\Release\DDSTool.dll
